@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Skills
+[![My Skills](https://skillicons.dev/icons?i=python,azure,aws,terraform,docker,kubernetes)](https://skillicons.dev)
+
