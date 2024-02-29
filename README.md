@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,azure,aws,terraform,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,azure,aws,terraform,docker,kubernetes,github)](https://skillicons.dev)
 
